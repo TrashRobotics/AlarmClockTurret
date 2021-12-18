@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href=""><img src="https://github.com/TrashRobotics/AlarmClockTurret/blob/main/img/alarm_clock_turret.jpg" alt="Турель-будильник" width="800"></a>
+  <a href="https://youtu.be/pdIlyJ9fpZc"><img src="https://github.com/TrashRobotics/AlarmClockTurret/blob/main/img/alarm_clock_turret.jpg" alt="Турель-будильник" width="800"></a>
   <br>
     Автоматическая турель-будильник
   <br>
@@ -29,7 +29,7 @@
 * тумблер;
 * HC-SR501 датчик движения;
 * макетная плата (по желанию);
-* [звенья, корпус и т.д.](ссылка на файлы)
+* [звенья, корпус и т.д.](https://www.thingiverse.com/thing:5167743)
 
 ### Крепеж
 * Саморез DIN7982 3.5x9.5	x2;
