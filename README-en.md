@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href=""><img src="https://github.com/TrashRobotics/AlarmClockTurret/blob/main/img/alarm_clock_turret.jpg" alt="Turret alarm clock" width="800"></a>
+  <a href="https://youtu.be/pdIlyJ9fpZc"><img src="https://github.com/TrashRobotics/AlarmClockTurret/blob/main/img/alarm_clock_turret.jpg" alt="Turret alarm clock" width="800"></a>
   <br>
    Automatic alarm clock turret 
   <br>
@@ -29,7 +29,7 @@ Automatic water turret alarm clock
 * toggle switch;
 * HC-SR501 motion sensor;
 * breadboard (optional);
-* [links, body, etc.] ()
+* [links, body, etc.] (https://www.thingiverse.com/thing:5167743)
 
 ### Fasteners
 * Self-tapping screw DIN7982 3.5x9.5	x2;
